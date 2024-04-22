@@ -24,5 +24,5 @@ Os dados usados nesta análise podem ser acessados [aqui](https://github.com/lea
 
 ### Arquivos do Repositório
 
-- **Case_2_Varejo.ipynb:** Jupyter Notebook contendo o código da análise de dados em Pandas.
+- **Case_2_Varejo.ipynb:** Jupyter Notebook contendo o código da análise de dados em Python.
 - **varejo.xlsx:** Arquivo xlsx contendo os dados de vendas da loja virtual.
