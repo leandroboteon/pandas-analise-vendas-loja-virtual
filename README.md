@@ -23,6 +23,11 @@ Os dados utilizados nesta análise foram coletados do sistema de vendas do e-com
 
 Durante a análise, foram utilizadas técnicas de limpeza e tratamento de dados para garantir a qualidade dos dados analisados. Além disso, foram aplicadas técnicas de análise exploratória de dados e visualização para identificar padrões, tendências e insights relevantes nos dados de vendas.
 
+## Linguagem e Bibliotecas Utilizadas
+
+- Python
+- Bibliotecas: Pandas, Matplotlib, Seaborn
+
 ### Limpeza e Tratamento de Dados
 
 1. **Importando Bibliotecas:** Utilizamos as bibliotecas pandas, matplotlib e seaborn para análise e visualização dos dados.
