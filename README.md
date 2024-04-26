@@ -9,6 +9,16 @@ O objetivo deste projeto é analisar os dados de vendas do e-commerce para ident
 
 Os dados utilizados nesta análise foram coletados do sistema de vendas do e-commerce e incluem informações sobre as transações de vendas, clientes, produtos e canais de venda.
 
+**varejo.xlsx**:  
+
+
+![Dataset de vendas](https://github.com/leandroboteon/pandas-analise-vendas-loja-virtual/assets/167100723/1cd1ba06-5e5c-4b2f-9acf-12025d62146d)
+
+**cliente_varejo.xlsx**:  
+
+
+![Dataset de clientes](https://github.com/leandroboteon/pandas-analise-vendas-loja-virtual/assets/167100723/887ad583-db6d-4197-9974-c743117e3f46)
+
 ### Metodologia Utilizada
 
 Durante a análise, foram utilizadas técnicas de limpeza e tratamento de dados para garantir a qualidade dos dados analisados. Além disso, foram aplicadas técnicas de análise exploratória de dados e visualização para identificar padrões, tendências e insights relevantes nos dados de vendas.
